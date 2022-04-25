@@ -11,7 +11,7 @@
 + [ICE5](https://github.com/chen38j/4051_Portfolio_Jingfei-Chen/blob/main/ICE5.ipynb)
 
 
-### Analysis Challenge Assignment
+### Mini LA Project
 + [MiniLA1](https://github.com/chen38j/4051_Portfolio_Jingfei-Chen/blob/main/MiniLA1.ipynb)
 + [MiniLA2](https://github.com/chen38j/4051_Portfolio_Jingfei-Chen/blob/main/MiniLA2.ipynb)
 + [MiniLA3](https://github.com/chen38j/4051_Portfolio_Jingfei-Chen/blob/main/MiniLA3.ipynb)
