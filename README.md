@@ -4,7 +4,7 @@
 ## This Portfolio includes 2 sections:
 
 ### Individual Coding Exercise
-+ [ICE1](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE1.ipynb%20)
++ [ICE1](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE1.ipynb)
 + [ICE2](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE2.ipynb)
 + [ICE3](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE3.ipynb)
 + [ICE4](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE4.ipynb)
